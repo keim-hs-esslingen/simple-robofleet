@@ -2,6 +2,7 @@
 ## A very simple Simulation Environment for RoboTaxis
 
 ![SimpleRoboFleet](SimpleRoboFleet.gif)
+![SimpleRoboFleetLegend](simpleRoboFleetLegend.png)
 
 ## Why is it made so simple?
 * The usage should be very simple 
